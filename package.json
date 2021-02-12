@@ -1,0 +1,22 @@
+{
+  "name": "potential-funicular",
+  "version": "1.0.0",
+  "description": "Little project to demo git commits and PRs and why atomic commits and PRs are nicer to work with.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moodyjmz/potential-funicular.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moodyjmz/potential-funicular/issues"
+  },
+  "homepage": "https://github.com/moodyjmz/potential-funicular#readme",
+  "dependencies": {
+    "lit-element": "^3.0.0-pre.3"
+  }
+}
