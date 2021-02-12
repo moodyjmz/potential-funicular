@@ -11,6 +11,10 @@ class MyElement extends LitElement {
     }
     static get styles () {
         return css`
+                div {
+                text-transform: capitalize;
+            color: red;
+            font-size: var(--font-size, 24px);
         }
         `;
     }
